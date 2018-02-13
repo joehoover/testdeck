@@ -7,9 +7,9 @@ framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : standalone # {standalone, draft}
+mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-lib_cdn: "/media/joe/8242eee1-0a41-405f-bc24-3bd277cfda39/git_repos/slidifyLibraries/inst/libraries/"
+#lib_cdn: "/media/joe/8242eee1-0a41-405f-bc24-3bd277cfda39/git_repos/slidifyLibraries/inst/libraries/"
 
 
 
